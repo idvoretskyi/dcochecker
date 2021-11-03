@@ -1,4 +1,5 @@
 name: DCO Checker
+description: "A simple DCO Checker GitHub Action"
 branding:
   icon: 'check-square'  
   color: 'blue'
