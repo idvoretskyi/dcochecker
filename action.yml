@@ -1,4 +1,7 @@
 name: DCO Checker
+branding:
+  icon: 'award'  
+  color: 'blue'
 on:
   workflow_call:
     inputs:
